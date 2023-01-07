@@ -1,7 +1,7 @@
 # European countries database
 **Purpose:**        Database and its interface
 
-**Authors:**        Group 10 (NOTE THIS WAS A GROUP PROJECT DONE IN FALL 2022)
+**Authors:**        Group 10 (NOTE THIS WAS A GROUP PROJECT DONE IN FALL 2022 WITH 3 MEMBERS NAMELY: Eddie, Nam and me (Sami) )
 
 **Program Files included:**  group10.db, group10.sql, group10.java, makefile, sqlite-jdbc-3.39.3.0, readMe.MD, readMe.pdf
 
